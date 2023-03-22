@@ -1,5 +1,5 @@
 
-SPEAKER ENGAGEMENT AGREEMENT V1.2
+SPEAKER ENGAGEMENT AGREEMENT V1.3
 =================================
 
 This Speaker Engagement Agreement ("Contract" or "Agreement") is made effective as of the date of the last signature, by and between ________________________________ ("Organizer") and _________________ ("Speaker") (collectively "the Parties").
@@ -80,7 +80,7 @@ c. The failure to make the Presentation location timely ready and available for 
 
 **20. DISPUTE RESOLUTION.** The parties will attempt to resolve any dispute arising out of or relating to this Agreement through friendly negotiations amongst the parties. If the matter is not resolved by negotiation within thirty (30) days, the parties will resolve the dispute using the below Alternative Dispute Resolution (ADR) procedure.
 
-Any controversies or disputes arising out of or relating to this Agreement will be resolved by  binding arbitration under the rules of the London Court of International Arbitration. The arbitrator's  award will be final, and judgment may be entered upon it by any court having proper  jurisdiction.
+Any controversies or disputes arising out of or relating to this Agreement will be resolved by binding arbitration under the rules of the London Court of International Arbitration. The arbitrator's award will be final, and judgment may be entered upon it by any court having proper jurisdiction.
 
 **21. CONTRADICTORY PROVISIONS.** This Contract contains the entire agreement of the Parties as it relates to the scope of work for the provision of particular Services by Speaker to Organizer. This Contract supersedes any prior written or oral agreements between the parties which may contradict the terms of this Contract. However, this Contract does not invalidate provisions of other agreements entered into by the Parties to govern the relationship between the Parties. This Contract should be read in conjunction with all valid written contracts entered into between the Parties.
 
@@ -88,7 +88,7 @@ Any controversies or disputes arising out of or relating to this Agreement will 
 
 **23. AMENDMENT.** This Contract may be modified or amended in writing by mutual agreement between the parties.
 
-**24. GOVERNING LAW.** This Contract shall be construed in accordance with the laws of the State of Delaware in the United States of America.
+**24. GOVERNING LAW.** This Agreement shall be governed exclusively by Swiss law, excluding both all conflict of law rules and the United Nations Convention on Contracts for the International Sale of Goods (CISG). The place of jurisdiction shall be exclusively Gemeva, Switzerland. Any disputes arising out of or relating to this Agreement shall be resolved in accordance with the Dispute Resolution clause set forth in this Agreement.
 
 **25. NOTICE.** Any notice or communication required or permitted under this Contract shall be sufficiently given if delivered in person or by certified mail, return receipt requested, to the addresses set forth below.
 
@@ -124,7 +124,7 @@ Such addresses may be changed from time to time by either party by providing wri
 
 **30. NON-DISCRIMINATION.** Organizer and Speaker agree no part of this agreement shall be performed in a manner that illegally discriminates against any person on the basis of such characteristics including, but not limited to, age, color, disability, gender expression/identity, genetic information, marital status, race, religion, sex, and sexual orientation.
 
-IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their  duly authorized representatives as of the date of the last signature.
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed by their duly authorized representatives as of the date of the last signature.
 
 Organizer:
 
