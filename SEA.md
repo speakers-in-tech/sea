@@ -2,7 +2,7 @@
 SPEAKER ENGAGEMENT AGREEMENT V1.4
 =================================
 
-This Speaker Engagement Agreement ("Contract" or "Agreement") is made effective as of the date of the last signature, by and between ________________________ ("Organizer") and ________________________ ("Speaker") (collectively "the Parties").
+This Speaker Engagement Agreement ("Agreement") is made effective as of the date of the last signature, by and between ________________________ ("Organizer") and ________________________ ("Speaker") (collectively "the Parties").
 
 WHEREAS, Speaker has knowledge, experience, and skills of interest to Organizer, and has been invited by the Organizer to present a talk at ____________________ ("Event"), held on ____________ ("Event Dates"); and
 
@@ -42,7 +42,7 @@ Organizer shall reimburse Speaker for all reasonable and necessary expenses incu
 
 **7. CANCELLATION.** If Organizer cancels the Presentation due to the cancellation of the Event, this Agreement shall terminate, and Speaker shall have no further obligations to Organizer hereunder. Organizer's obligations to Speaker, including compensation, reimbursement, and nondisparagement, shall remain in full force and effect. In the event that Organizer cancels the Presentation for any reason other than the cancellation of the Event or a force majeure event as described herein, Speaker shall be entitled to a cancellation fee of ____________ USD, which shall be due and payable within 30 days of Organizer providing notice of cancellation of the Presentation.
 
-If Organizer fails to pay for the Services when due, Speaker may treat such failure to pay as a material breach of this Contract, and may cancel this Contract and/or seek legal remedies. In the event that Speaker cancels the Presentation due to a force majeure event as described herein, Speaker shall have no obligation or liability to Organizer, and neither party shall have any further rights or obligations hereunder.
+If Organizer fails to pay for the Services when due, Speaker may treat such failure to pay as a material breach of this Agreement, and may cancel this Agreement and/or seek legal remedies. In the event that Speaker cancels the Presentation due to a force majeure event as described herein, Speaker shall have no obligation or liability to Organizer, and neither party shall have any further rights or obligations hereunder.
 
 **8. NONDISPARAGEMENT.** Each party agrees that they shall not, either directly or indirectly, make or cause to be made any statements, whether oral or written, or engage in any conduct which could disparage, criticize or otherwise damage the other party's business reputation, character, practices or conduct. This obligation shall remain in effect for a period of two (2) years following the conclusion of the Event, unless waived in writing by both parties. However, this clause shall not prevent either party from providing constructive criticism, in good faith, aimed at improving the Event or Presentation, provided that such criticism is made in good faith and without malicious intent, and is made after the conclusion of the Event.
 
@@ -62,17 +62,17 @@ If Organizer fails to pay for the Services when due, Speaker may treat such fail
 
 **16. INDEMNIFICATION.** Organizer shall indemnify, defend, and hold Speaker and its officers, directors, employees, and agents harmless from and against any and all claims, demands, damages, liabilities, costs, and expenses, including reasonable attorney’s fees, arising out of or related to Organizer’s breach of this Agreement or any negligent, reckless, or intentionally wrongful act or omission of Organizer, its employees, or agents. This indemnification obligation shall not apply to the extent that any such claims, demands, damages, liabilities, costs, and expenses arise out of or relate to the sole willful misconduct or gross negligence of Speaker.
 
-**17. MATERIAL DEFAULTS.** The occurrence of any of the following shall constitute a material default under this Contract:
+**17. MATERIAL DEFAULTS.** The occurrence of any of the following shall constitute a material default under this Agreement:
 
 a. The failure to make a required payment when due.
 
-b. The failure to make available or deliver the Services in the time and manner provided for in this Contract.
+b. The failure to make available or deliver the Services in the time and manner provided for in this Agreement.
 
 c. The failure to make the Presentation location timely ready and available for Speaker’s scheduled Presentation.
 
 **18. COSTS OF DISPUTE RESOLUTION.** In the event of any dispute arising out of or relating to this Agreement, the prevailing party shall be entitled to recover all costs and expenses incurred in the course of the arbitration, including the arbitrator's fees, administrative fees, and reasonable attorney fees and expenses. The non-prevailing party shall be responsible for paying such costs in full.
 
-**19. DEFAULT AND TERMINATION.** If a party fails to substantially perform any provision, term, or condition of this Contract, including but not limited to the failure to make a monetary payment when due, the non-defaulting party may terminate the Contract by providing written notice to the defaulting party. The notice shall specify in reasonable detail the nature of the default. The defaulting party shall have fourteen (14) days from the effective date of the notice to cure the default(s). If the default(s) are not cured within the specified time period, this Contract shall automatically terminate without further notice.
+**19. DEFAULT AND TERMINATION.** If a party fails to substantially perform any provision, term, or condition of this Agreement, including but not limited to the failure to make a monetary payment when due, the non-defaulting party may terminate the Agreement by providing written notice to the defaulting party. The notice shall specify in reasonable detail the nature of the default. The defaulting party shall have fourteen (14) days from the effective date of the notice to cure the default(s). If the default(s) are not cured within the specified time period, this Agreement shall automatically terminate without further notice.
 
 **20. FORCE MAJEURE.** If either party is prevented from performing its obligations under this Agreement due to a Force Majeure event, and the party unable to perform its obligations provides prompt written notice of such event to the other party, then the affected party's obligations shall be suspended to the extent necessary by such event. The term Force Majeure shall include, without limitation, acts of God, fire, explosion, vandalism, storm or other similar occurrence, orders or acts of military or civil authority, or by national emergencies, insurrections, riots, or wars, or strikes, lock-outs, work stoppages or other labor disputes, or supplier failures. The affected party shall use reasonable efforts to avoid or remove such causes of non-performance and shall proceed to perform with reasonable dispatch whenever such causes are removed or ceased. An act or omission shall be deemed within the reasonable control of a party if committed, omitted, or caused by such party or its employees, officers, agents, or affiliates.
 
@@ -80,9 +80,9 @@ c. The failure to make the Presentation location timely ready and available for 
 
 **22. ENTIRE AGREEMENT; PRIOR AGREEMENTS.** This Agreement constitutes the entire agreement between the Parties with respect to the provision of the Services by Speaker to Organizer, and supersedes all prior agreements and understandings, whether written or oral, between the Parties relating to the subject matter hereof. This Agreement may not be amended or modified except in writing executed by both Parties.
 
-**23. SEVERABILITY.** If any provision of this Contract is held to be invalid or unenforceable, the validity and enforceability of the remaining provisions shall not be affected. In the event that a court determines that any provision of this Contract is invalid or unenforceable, the Parties agree to replace such provision with a valid and enforceable provision that achieves, to the extent possible, the same economic, business, and other purposes of the invalid or unenforceable provision.
+**23. SEVERABILITY.** If any provision of this Agreement is held to be invalid or unenforceable, the validity and enforceability of the remaining provisions shall not be affected. In the event that a court determines that any provision of this Agreement is invalid or unenforceable, the Parties agree to replace such provision with a valid and enforceable provision that achieves, to the extent possible, the same economic, business, and other purposes of the invalid or unenforceable provision.
 
-**24. AMENDMENT.** This Contract may not be modified or amended except by a written instrument executed by both Parties. Any attempt to modify this Contract without complying with this provision shall be null and void.
+**24. AMENDMENT.** This Agreement may not be modified or amended except by a written instrument executed by both Parties. Any attempt to modify this Agreement without complying with this provision shall be null and void.
 
 **25. GOVERNING LAW AND JURISDICTION.** This Agreement shall be governed by and construed in accordance with the laws of England and Wales, without giving effect to any choice or conflict of law provision or rule. Any dispute arising out of or in connection with this Agreement, including any question regarding its existence, validity, or termination, shall be subject to the exclusive jurisdiction of the courts of England and Wales.
 
