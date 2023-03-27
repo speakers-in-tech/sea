@@ -1,5 +1,5 @@
 
-SPEAKER ENGAGEMENT AGREEMENT V1.4
+SPEAKER ENGAGEMENT AGREEMENT V1.5
 =================================
 
 This Speaker Engagement Agreement ("Agreement") is made effective as of the date of the last signature, by and between ________________________ ("Organizer") and ________________________ ("Speaker") (collectively "the Parties").
@@ -28,7 +28,7 @@ _Organizer’s audience_ – registrants and attendees of the Presentation.
 
 Speaker will present the Presentation currently titled ____________________________________ at the Event, which shall be approximately ____________ minutes in length. Speaker shall have sole discretion over the content of the Presentation and the materials used therein.
 
-**3. COMPENSATION AND EXPENSES.** Organizer shall compensate Speaker the amount of ____________ USD for the Services, which shall be paid before the first day of the Event.
+**3. COMPENSATION AND EXPENSES.** Organizer shall compensate Speaker the amount of ____________ USD for the Services ("Speaker Fee"), which shall be paid before the first day of the Event.
 
 Speaker shall have no obligation to perform under this Agreement if payment is not made pursuant to the terms of this Agreement. Any breach of the payment terms as outlined by this Agreement shall constitute a material breach and shall entitle Speaker to full payment of Speaker’s Compensation.
 
@@ -50,7 +50,9 @@ If Organizer fails to pay for the Services when due, Speaker may treat such fail
 
 **10. TIME OF PERFORMANCE.** Time of performance is essential to this Agreement. The Presentation shall begin at the scheduled time, subject to minor modifications due to unforeseeable events. Organizer agrees to make the Presentation location available promptly and no later than 5 minutes beyond the scheduled start time. If Organizer fails to make the Presentation location available or otherwise permit Speaker to begin the Presentation within 5 minutes of the scheduled Presentation time, Speaker shall have the right to adjust the Presentation to accommodate the resulting time constraints. Such adjustment shall not relieve Organizer's obligation to pay the full Compensation for the Engagement.
 
-**11. INDEPENDENT CONTRACTOR.** Speaker is an independent contractor during the performance of this Agreement and is not an agent or employee of Organizer. As an independent contractor, Speaker is solely responsible for complying with all applicable laws, regulations, and tax obligations in the jurisdiction(s) where Speaker performs services. Speaker shall provide Organizer with any required documentation to evidence Speaker's compliance with such laws, regulations, and tax obligations.
+**11. INDEPENDENT CONTRACTOR OR VOLUNTEER.** If the Speaker Fee is non-zero, Speaker is considered an independent contractor during the performance of this Agreement and is not an agent or employee of Organizer. As an independent contractor, Speaker is solely responsible for complying with all applicable laws, regulations, and tax obligations in the jurisdiction(s) where Speaker performs services. Speaker shall provide Organizer with any required documentation to evidence Speaker's compliance with such laws, regulations, and tax obligations.
+
+However, if the Speaker Fee is zero (0), Speaker shall be considered a volunteer and not an independent contractor or employee of Organizer. As a volunteer, Speaker is providing their services for the Event without any expectation of compensation or financial gain. Speaker's participation in the Event is intended for educational, charitable, or recreational purposes.
 
 **12. WORK PRODUCT OWNERSHIP.** Any copyrightable works, ideas, discoveries, inventions, patents, products, or other information (collectively the "Work Product") developed in whole or in part by Speaker in connection with the Services will be the exclusive property of Speaker. Organizer acknowledges that it has no right to use or claim ownership over any Work Product created by Speaker, except as outlined in this Agreement. Speaker may use such Work Product for any purpose, including commercial purposes, without the need for further permission from Organizer.
 
