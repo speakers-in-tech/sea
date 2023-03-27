@@ -1,5 +1,5 @@
 
-SPEAKER ENGAGEMENT AGREEMENT V1.5
+SPEAKER ENGAGEMENT AGREEMENT V1.6
 =================================
 
 This Speaker Engagement Agreement ("Agreement") is made effective as of the date of the last signature, by and between ________________________ ("Organizer") and ________________________ ("Speaker") (collectively "the Parties").
@@ -26,7 +26,7 @@ _Organizer’s audience_ – registrants and attendees of the Presentation.
 
 **2. DESCRIPTION OF SERVICES.** Speaker will present a Presentation at the Event to be held on the Event Dates. (the "Services").
 
-Speaker will present the Presentation currently titled ____________________________________ at the Event, which shall be approximately ____________ minutes in length. Speaker shall have sole discretion over the content of the Presentation and the materials used therein.
+Speaker will present the Presentation currently titled ____________________________________ at the Event, which shall be approximately ____________ minutes in length. While Speaker shall have sole discretion over the content of the Presentation and the materials used therein, Speaker agrees to ensure that the topic of the Presentation is consistent with the theme of the Event and falls within the range of topics generally considered relevant to such an Event. Speaker acknowledges the importance of maintaining a cohesive and focused Event, and therefore agrees to align the Presentation's content with the Organizer's expectations and the Event's objectives.
 
 **3. COMPENSATION AND EXPENSES.** Organizer shall compensate Speaker the amount of ____________ USD for the Services ("Speaker Fee"), which shall be paid before the first day of the Event.
 
