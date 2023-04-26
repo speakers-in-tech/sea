@@ -4,6 +4,8 @@ The Speaker Engagement Agreement (sea.md) is a document that outlines the terms 
 
 The agreement covers topics such as payment, travel expenses, and intellectual property rights.
 
+See the [Conference Data repository](https://github.com/speakers-in-tech/conference-data) for a list of conferences who sign SEA upon request.
+
 ## Contributing
 
 To contribute improvements and fixes to the repository on Github, you can follow these steps:
