@@ -1,6 +1,6 @@
 
-SPEAKER ENGAGEMENT AGREEMENT V1.7
-=================================
+SPEAKER ENGAGEMENT AGREEMENT V1.7.1
+===================================
 
 This Speaker Engagement Agreement ("Agreement") is made effective as of the date of the last signature, by and between ________________________ ("Organizer") and ________________________ ("Speaker") (collectively "the Parties").
 
@@ -40,11 +40,11 @@ Organizer shall reimburse Speaker for all reasonable and necessary expenses incu
 
 **6. RECORDING AND DISTRIBUTION.** Organizer shall record and distribute all video recordings of the Presentation, and shall make them available to the public without a paywall or registration wall, within three (3) months of the Event. Organizer shall provide Speaker with a copy of the recordings at no cost to Speaker. Organizer shall have the right to edit and prepare derivative works of the recordings, provided that such editing and preparation does not materially alter Speaker's original content.
 
-**7. CANCELLATION.** If Organizer cancels the Presentation due to the cancellation of the Event, this Agreement shall terminate, and Speaker shall have no further obligations to Organizer hereunder. Organizer's obligations to Speaker, including compensation, reimbursement, and nondisparagement, shall remain in full force and effect. In the event that Organizer cancels the Presentation for any reason other than the cancellation of the Event or a force majeure event as described herein, Speaker shall be entitled to a cancellation fee of ____________ USD, which shall be due and payable within 30 days of Organizer providing notice of cancellation of the Presentation.
+**7. CANCELLATION.** If Organizer cancels the Presentation due to the cancellation of the Event, this Agreement shall terminate, and Speaker shall have no further obligations to Organizer hereunder. Organizer's obligations to Speaker, including compensation, reimbursement, and nondisparagement, shall remain in full force and effect. In the event that Organizer cancels the Presentation ("Discretionary Cancellation") for any reason other than the cancellation of the Event or a force majeure event as described herein, Speaker shall be entitled to a cancellation fee of ____________ USD, which shall be due and payable within 30 days of such cancellation.
 
 If Organizer fails to pay for the Services when due, Speaker may treat such failure to pay as a material breach of this Agreement, and may cancel this Agreement and/or seek legal remedies. In the event that Speaker cancels the Presentation due to a force majeure event as described herein, Speaker shall have no obligation or liability to Organizer, and neither party shall have any further rights or obligations hereunder.
 
-Should the Organizer voluntarily enact alterations that significantly negatively affect the Speaker's prominence or the projected audience size, the Speaker, at their sole discretion, may deem such changes a cancellation of the Presentation.
+Should Organizer voluntarily enact alterations that materially negatively impact Speaker's prominence at the Event or the projected audience size for the Presentation, then at Speaker's sole discretion, such changes shall be deemed and have the full force and effect of a Discretionary Cancellation.
 
 **8. NONDISPARAGEMENT.** Each party agrees that they shall not, either directly or indirectly, make or cause to be made any statements, whether oral or written, or engage in any conduct which could disparage, criticize or otherwise damage the other party's business reputation, character, practices or conduct. This obligation shall remain in effect for a period of two (2) years following the conclusion of the Event, unless waived in writing by both parties. However, this clause shall not prevent either party from providing constructive criticism, in good faith, aimed at improving the Event or Presentation, provided that such criticism is made in good faith and without malicious intent, and is made after the conclusion of the Event.
 
